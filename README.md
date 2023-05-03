@@ -1,2 +1,0 @@
-# PayForBlob
-PayForBlob 
